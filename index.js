@@ -1,5 +1,5 @@
 const mineflayer =
-require('mineflayer);
+require('mineflayer');
 
 const bot = mineflayer.createBot({
   host: 'mc1679557.fmcs.cloud',
